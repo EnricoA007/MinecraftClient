@@ -1,0 +1,4 @@
+name: MinecraftClient
+author: Enrico
+version: 1.0
+main: me.enrico.dynamic.minecraftclient.test.MCClientTest
